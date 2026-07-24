@@ -2,7 +2,8 @@
 
 A clean, responsive, and modern Image Slider built with **HTML5**, **CSS3**, and **JavaScript (ES6)**.
 
-
+Live Demo:
+https://chandrimabarua.github.io/image-slider-js/
 
 ---
 
